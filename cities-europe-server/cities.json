@@ -1,0 +1,60 @@
+{
+  "cities": [
+    {
+      "name": "Barcelona",
+      "description": "Is a city on the coast of northeastern Spain. It is the capital and largest city of the autonomous community of Catalonia, as well as the second most populous municipality of Spain",
+      "imageURL": "https://i.guim.co.uk/img/media/f4557d1a4a6fac9c55e930c672433871e875c606/54_0_4033_2422/master/4033.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=671fdbf8df0bb6ac6db9f07835d959da",
+      "category": "Spain",
+      "id": "UojzBBw",
+      "likes": 9
+    },
+    {
+      "name": "Sofia",
+      "description": "Sofia  is the capital and largest city of Bulgaria. It is situated in the Sofia Valley at the foot of the Vitosha mountain in the western parts of the country. The city is built west of the Iskar river, and has many mineral springs, such as the Sofia Central Mineral Baths. It has a humid continental climate. ",
+      "imageURL": "https://upload.travelawaits.com/ta/uploads/2021/04/sofia-bulgariaa12542-scaled.jpg",
+      "category": "Bulgaria",
+      "id": "t2ko2Gi",
+      "likes": 18
+    },
+    {
+      "name": "Berlin",
+      "description": "Berlin is the capital and largest city of Germany by both area and population.[8][9] Its 3.7 million inhabitants make it the European Union's most populous city, according to population within city limits.[2] One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital. Berlin's urban area, which has a population of around 4.5 million, is the second most populous urban area in Germany after the Ruhr.",
+      "imageURL": "https://images.unsplash.com/photo-1549569344-5fab90429fd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJlcmxpbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "Germany",
+      "id": "bNXGFPF",
+      "likes": 10
+    },
+    {
+      "name": "Rome",
+      "description": "Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi),[1] Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.[",
+      "imageURL": "https://images.unsplash.com/photo-1555992828-ca4dbe41d294?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJvbWV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "category": "Italy",
+      "id": "ZTIDeRf",
+      "likes": 9
+    },
+    {
+      "name": "Zagreb",
+      "description": "Zagreb is the capital and largest city of Croatia.[10] It is in the northwest of the country, along the Sava river, at the southern slopes of the Medvednica mountain. Zagreb lies at an elevation of approximately 122 m (400 ft) above sea level.",
+      "imageURL": "https://media.gettyimages.com/photos/the-beautiful-church-in-zagreb-with-the-old-buildings-in-old-city-picture-id1144074611?k=20&m=1144074611&s=612x612&w=0&h=Kf8AGZ7FEXNlXa-NNwb7_HaTDihQ-cGdPLDsw8ZnRb0=",
+      "category": "Other",
+      "id": "uMf_qgQ",
+      "likes": 3
+    },
+    {
+      "name": "Varna",
+      "description": "Varna is the third-largest city in Bulgaria and the largest city and seaside resort on the Bulgarian Black Sea Coast and in the Northern Bulgaria region. Situated strategically in the Gulf of Varna, the city has been a major economic, social and cultural centre for almost three millennia. Historically known as Odessos (Ancient Greek: Ὀδησσός), Varna developed from a Thracian seaside settlement to a major seaport on the Black Sea.",
+      "imageURL": "https://www.hotelcasinointernational.com/uploads/html/images/HDR_0001%202.jpg",
+      "category": "Bulgaria",
+      "id": "IbMQbK5",
+      "likes": 9
+    },
+    {
+      "name": "Munich",
+      "description": "Munich Bavarian is the capital and most populous city of Bavaria. With a population of 1,558,395 inhabitants as of 31 July 2020,[4] it is the third-largest city in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union.",
+      "imageURL": "https://media.istockphoto.com/photos/aerial-view-of-the-city-hall-at-the-marienplatz-in-munich-germany-picture-id1030822616?k=20&m=1030822616&s=612x612&w=0&h=R43vMzdpG4TwdoK9dAkuDaj-39ZbHiXFLrp0JVLZrBU=",
+      "category": "Germany",
+      "id": "TVS9c2y",
+      "likes": 5
+    }
+  ]
+}
