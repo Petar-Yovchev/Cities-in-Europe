@@ -34,10 +34,10 @@ function App() {
  
  return (
     <div id="container">
-      <Header userName={user?.email} isAuthenticated={Boolean(user)}/>
+      <Header  isAuthenticated={Boolean(user)}/>
       
       <Routes>
-        <Route path='categories/:category' element={<Categories />} />
+          <Route path='categories/:category' element={<Categories />} />
         <Route path='/city/create'         element={<CreateCity />} />
         <Route path='/register/user/'      element={<Registration />} />
         <Route path='/login/'              element={<Login />} />

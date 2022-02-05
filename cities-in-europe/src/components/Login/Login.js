@@ -8,8 +8,8 @@ const Login = () => {
     const [user, setUser] = useState()
     const auth = getAuth();
     let navigate = useNavigate();
-   
-       const onLoginFormSubmithandler = (e) => {
+     
+        const onLoginFormSubmithandler = (e) => {
             e.preventDefault();
         
         const username = e.target.username.value;
