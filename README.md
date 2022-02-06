@@ -2,8 +2,8 @@
 JS Web-ReactJS
 
 ### Project Name: Cities of Europe!
- 
-Cities of Europe is app with which information and photos about cities can be shared and viewed!
+
+Cities of Europe is an application that allows you to add, view or like information about cities!
 
 ![Screenshot 131002](https://user-images.githubusercontent.com/48017643/152678059-f9c4e33e-e290-4df5-86b3-36129e215afc.png)
 
