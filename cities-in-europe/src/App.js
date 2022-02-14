@@ -1,3 +1,4 @@
+import React from 'react';
 import { useEffect, useState }        from 'react';
 import { Routes, Route}               from 'react-router-dom';
 
@@ -9,6 +10,7 @@ import Registration  from './components/Registration/Registration';
 import Login         from './components/Login/Login';
 import Logout        from './components/Logout/Logout';
 
+import CurrentUserContext from './utils/userContext';
 import './utils/firebase';
 import { getAuth, onAuthStateChanged } from "firebase/auth";
 
@@ -34,10 +36,11 @@ function App() {
  
  return (
     <div id="container">
-      <Header  isAuthenticated={Boolean(user)}/>
+     <CurrentUserContext.Provider value={user}>
+      <Header/>
       
       <Routes>
-          <Route path='categories/:category' element={<Categories />} />
+        <Route path='categories/:category' element={<Categories />} />
         <Route path='/city/create'         element={<CreateCity />} />
         <Route path='/register/user/'      element={<Registration />} />
         <Route path='/login/'              element={<Login />} />
@@ -46,6 +49,7 @@ function App() {
       </Routes>
 
       <Footer />
+       </CurrentUserContext.Provider>
     </div>
   )
 };
